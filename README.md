@@ -1,3 +1,5 @@
+:arrow_upper_left: **Navigate conveniently using the menu button.**
+
 # Cognitive Neuroscience Cheat Sheet
 ## References
 * `Cognitive Neuroscience: A Very Short Introduction` by Richard Passingham
@@ -8,7 +10,7 @@
 ## Case Studies
 Much of our understanding of cognitive neuroscience is from case studies where a particular human is observed to have isolated damage in a specific area of the brain. By understanding the difference in the cognition between typical and damaged brains, we can ethically understand the function of particular brain regions in humans. While this does not hold the same scientific rigor as a systematic study, it would be unethical to damage human brains for experimental purposes.
 
-## Functional Map of the Brain
+## Functional Map of the Human Brain
 ![Brain Map](images/brainmap.webp)
 ## Terminology
 * `Dorsal`: Top surface of brain
