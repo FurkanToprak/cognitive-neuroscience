@@ -1,14 +1,14 @@
 # Cognitive Neuroscience Cheat Sheet
-## Table of Contents
-* <a name="references">References</a>
-* <a name="audience">Intended Audience</a>
-* <a name="brainmap">Functional Map of the Human Brain</a>
-## [References](#references)
+## References
 * `Cognitive Neuroscience: A Very Short Introduction` by Richard Passingham
-## [Intended Audience](#audience)
+## Intended Audience
 * People who are curious about the brain.
 * Me when I want to review Cognitive Neuroscience
-## [Functional Map of the Brain](#brainmap)
+
+## Case Studies
+Much of our understanding of cognitive neuroscience is from case studies where a particular human is observed to have isolated damage in a specific area of the brain. By understanding the difference in the cognition between typical and damaged brains, we can ethically understand the function of particular brain regions in humans. While this does not hold the same scientific rigor as a systematic study, it would be unethical to damage human brains for experimental purposes.
+
+## Functional Map of the Brain
 ![Brain Map](images/brainmap.webp)
 ## Terminology
 * `Dorsal`: Top surface of brain
