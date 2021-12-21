@@ -37,15 +37,7 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 * `Middle Temporal (MT) Complex`: Analyzes the movement of objects using information from the Dorsal Visual System.
 * `Phosphenes`: Flashes of light originating from visual cortex.
 * `V4/V8 Area`: Processes colors.
-### Object Recognition
-* Early parts of visual relay (V1-V3) process subcomponents of a visual scene whereas later parts integrate components (V4 and Lateral Occipital Complex).
-* Visual relay is hierarchically arranged, similar to how convolutional neural networks work.
-* Lower order neurons work on processing particular details of images (e.g. orientation) whereas higher order neurons learn view-independent representations.
 
-### Responding to Novelty
-* `Adaptive Suppression`: Same stimulus repeatedly shown invokes a decreased activation in a short period.
-* If exposed to the same stimulus in different manners (e.g. same object with different location/size/angle), lower order neurons will adapt less (e.g. V1-V3) while higher order neurons will adapt more (Lateral Occipital Complex).
-### Object Classification
 ## Somatosensory Area
 * S1, S2, etc.
 * Involved with touch, temperature, pressure, and pain.
@@ -54,10 +46,44 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 * More locally, the different sensory aspects of the same sense (e.g. Vision) are combined by connections within that sensory systems (e.g. color, shape, etc.)
 * Different senses are combined in `multimodal` areas. These are areas such as the `parietal cortex` and the `prefrontal cortex`.
 
+### Object Recognition
+* Early parts of visual relay (V1-V3) process subcomponents of a visual scene whereas later parts integrate components (V4 and Lateral Occipital Complex).
+* Visual relay is hierarchically arranged, similar to how convolutional neural networks work.
+* Lower order neurons work on processing particular details of images (e.g. orientation) whereas higher order neurons learn view-independent representations.
+
+### Responding to Novelty
+* `Adaptive Suppression`: Same stimulus repeatedly shown invokes a decreased activation in a short period.
+* If exposed to the same stimulus in different manners (e.g. same object with different location/size/angle), lower order neurons will adapt less (e.g. V1-V3) while higher order neurons will adapt more (Lateral Occipital Complex).
+
+### Object Classification
+* Higher visual areas of the inferior temporal cortex display different patterns of activation for different object classifications.
+* This depends on how higher-order neurons recieve inputs from lower-order neurons in a hierarchical fashion.
+
+### Perceptual Awareness
+* Primary visual cortex is necessary for visual awareness.
+* Activation in the ventral visual stream underlies phenomenal awareness for vision.
+* `Salience Network`: Anterior part of insula and anterior cingulate cortex, which respond to salient events.
+* Activity in early sensory areas along with activity in the insula and anterior cingulate cortex generate phenomenal awareness.
+
+### Cerebrum
+![Cerebrum](images/cerebrum.png)
+
+* The largest part of the brain.
+* Contains cerebral cortex, hippocampus, basal ganglia, and olfactory bulb.
+* In the human brain, the cerebrum is the uppermost region of the central nervous system. 
+* With the assistance of the cerebellum, the cerebrum controls all voluntary actions in the human body. 
+* Functions are sensory processing, olfaction, language, communication, learning, and memory.
+
+### Cerebral Cortex
+* The outer layer of neural tissue of the cerebrum
+* The cerebral cortex is the largest site of neural integration in the central nervous system.
+* Key role in attention, perception, awareness, thought, memory, language, and consciousness. 
 
 # Methods of Stimulating the Brain
 * `Transcranial Magnetic Brain Stimulation (TMS)`: Stimulating neurons using magnetic fields with a metal coil on the scalp.
+* `Visual Backward Masking`: Presenting one visual stimulus (a "mask" or "masking stimulus") immediately after a brief (usually 30 ms) "target" visual stimulus resulting in a failure to consciously perceive the first stimulus.
 
 # Methods of Observing the Brain
 * `fMRI`: Functional magnetic resonance imaging (fMRI) measures the small changes in blood flow that occur with brain activity.
 * `Diffusion weighted imaging (DWI)`: Chart connections by observing the flow of water in the brain. Water diffuses along fibre tracts. This way, we can observe the start and end of these tracts.
+* `Multi-voxel Pattern Analysis`: Finding spacial patterns of activation in the brain in 3D.
