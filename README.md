@@ -18,6 +18,7 @@
 * `Ventral`: Bottom surface of brain
 * `Posterior`: Back of brain
 * `Anterior`: Front of brain
+* `Lesion`: A region in an organ or tissue which has suffered damage through injury or disease, such as a wound, ulcer, abscess, or tumor.
 
 # Case Studies
 Much of our understanding of cognitive neuroscience is from case studies where a particular human is observed to have isolated damage in a specific area of the brain. By understanding the difference in the cognition between typical and damaged brains, we can ethically understand the function of particular brain regions in humans. While this does not hold the same scientific rigor as a systematic study, it would be unethical to damage human brains for experimental purposes.
@@ -65,6 +66,20 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 * `Salience Network`: Anterior part of insula and anterior cingulate cortex, which respond to salient events.
 * Activity in early sensory areas along with activity in the insula and anterior cingulate cortex generate phenomenal awareness.
 
+# Attention
+![Attention Systems](images/attention.jpeg)
+## Dorsal Attention System
+* Goal directed orientation of the visuaspacial systems.
+* Composed of `intraparietal sulcus` and `frontal eye field`, which have activity that vary together. This is called `resting state covariance.`
+* Spatially mapped, i.e. activation varies by the spatial position of attention within the peripheral vision.
+    * Peripheral vision and this relationship is significant because it allows us to move our eyes to the peripheral objects that capture our attention. This is how we prioritize areas in our visual space.
+
+## Locating Targets 
+### Neglect
+* Most often results from stokes that involve the right parietal cortex.
+* Results in stroke patients ignoring targets in left side of their vision. These stokes cut off blod supply because of a blockage or leakage in an artery. These lesions typically include the inferior parietal cortex, the cortex below the intraparietal sulcus. The critical area might be the Temporo-Parietal Junction (TPJ), because it is a critical node between the temporal lobe and the parietal cortex.
+
+# TODO: integrate information
 ### Cerebrum
 ![Cerebrum](images/cerebrum.png)
 
@@ -87,3 +102,4 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 * `fMRI`: Functional magnetic resonance imaging (fMRI) measures the small changes in blood flow that occur with brain activity.
 * `Diffusion weighted imaging (DWI)`: Chart connections by observing the flow of water in the brain. Water diffuses along fibre tracts. This way, we can observe the start and end of these tracts.
 * `Multi-voxel Pattern Analysis`: Finding spacial patterns of activation in the brain in 3D.
+* `Computerized Axial Tomography (CAT)`: An X-Ray taken from multiple angles, sometimes with a dye, to form a 3D image.
