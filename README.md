@@ -115,6 +115,11 @@ There are two sensory orienting systems in the human brain:
 * As subjects are told instructions for an upcoming task, the prefrontal cortex sends preperatory signals to the ventral prefrontal cortex before the task begins. This signal continues until the task begins. This is `set` activity (sets up the task).
     * This signal allows for activation in the relevant areas (i.e. spatially relevant areas for spatially aspects of the task).
 
+## Divided Attention (Multitasking)
+* Multitasking makes processes slower. This is because there are areas of the brain that engage in processing many sensory streams. These places have to process serially.
+* One example is the `ventral prefrontal cortex`: Where sensory input is transformed into motor output.
+* There is a speed up if a task is overtrained (like driving). Novel situations illicit longer response times.
+
 # Methods of Stimulating the Brain
 * `Transcranial Magnetic Brain Stimulation (TMS)`: Stimulating neurons using magnetic fields with a metal coil on the scalp.
 * `Visual Backward Masking`: Presenting one visual stimulus (a "mask" or "masking stimulus") immediately after a brief (usually 30 ms) "target" visual stimulus resulting in a failure to consciously perceive the first stimulus.
