@@ -7,16 +7,20 @@
 * People who are curious about the brain.
 * Me when I want to review Cognitive Neuroscience
 
-# Case Studies
-Much of our understanding of cognitive neuroscience is from case studies where a particular human is observed to have isolated damage in a specific area of the brain. By understanding the difference in the cognition between typical and damaged brains, we can ethically understand the function of particular brain regions in humans. While this does not hold the same scientific rigor as a systematic study, it would be unethical to damage human brains for experimental purposes.
+# Anatomy of a Neuron
+![Anatomy of a Neuron](images/neuron.jpg)
 
 # Functional Map of the Human Brain
 ![Brain Map](images/brainmap.webp)
+
 ## Terminology
 * `Dorsal`: Top surface of brain
 * `Ventral`: Bottom surface of brain
 * `Posterior`: Back of brain
 * `Anterior`: Front of brain
+
+# Case Studies
+Much of our understanding of cognitive neuroscience is from case studies where a particular human is observed to have isolated damage in a specific area of the brain. By understanding the difference in the cognition between typical and damaged brains, we can ethically understand the function of particular brain regions in humans. While this does not hold the same scientific rigor as a systematic study, it would be unethical to damage human brains for experimental purposes.
 
 # Perception
 * Two principles:
@@ -32,13 +36,18 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 * `Dorsal Visual System`: Directly connects to areas in frontal lobe that controls movement. Used to guide action using vision. Carries information about the movement of objects.
 * `Middle Temporal (MT) Complex`: Analyzes the movement of objects using information from the Dorsal Visual System.
 * `Phosphenes`: Flashes of light originating from visual cortex.
+* `V4/V8 Area`: Processes colors.
 
 ## Somatosensory Area
 * S1, S2, etc.
 * Involved with touch, temperature, pressure, and pain.
 
+## Combining the Senses
+* More locally, the different sensory aspects of the same sense (e.g. Vision) are combined by connections within that sensory systems (e.g. color, shape, etc.)
+* Different senses are combined in `multimodal` areas. These are areas such as the `parietal cortex` and the `prefrontal cortex`.
 # Methods of Stimulating the Brain
 * `Transcranial Magnetic Brain Stimulation (TMS)`: Stimulating neurons using magnetic fields with a metal coil on the scalp.
 
 # Methods of Observing the Brain
 * `fMRI`: Functional magnetic resonance imaging (fMRI) measures the small changes in blood flow that occur with brain activity.
+* `Diffusion weighted imaging (DWI)`: Chart connections by observing the flow of water in the brain. Water diffuses along fibre tracts. This way, we can observe the start and end of these tracts.
