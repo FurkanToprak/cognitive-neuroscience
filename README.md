@@ -37,7 +37,15 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 * `Middle Temporal (MT) Complex`: Analyzes the movement of objects using information from the Dorsal Visual System.
 * `Phosphenes`: Flashes of light originating from visual cortex.
 * `V4/V8 Area`: Processes colors.
+### Object Recognition
+* Early parts of visual relay (V1-V3) process subcomponents of a visual scene whereas later parts integrate components (V4 and Lateral Occipital Complex).
+* Visual relay is hierarchically arranged, similar to how convolutional neural networks work.
+* Lower order neurons work on processing particular details of images (e.g. orientation) whereas higher order neurons learn view-independent representations.
 
+### Responding to Novelty
+* `Adaptive Suppression`: Same stimulus repeatedly shown invokes a decreased activation in a short period.
+* If exposed to the same stimulus in different manners (e.g. same object with different location/size/angle), lower order neurons will adapt less (e.g. V1-V3) while higher order neurons will adapt more (Lateral Occipital Complex).
+### Object Classification
 ## Somatosensory Area
 * S1, S2, etc.
 * Involved with touch, temperature, pressure, and pain.
@@ -45,6 +53,8 @@ Much of our understanding of cognitive neuroscience is from case studies where a
 ## Combining the Senses
 * More locally, the different sensory aspects of the same sense (e.g. Vision) are combined by connections within that sensory systems (e.g. color, shape, etc.)
 * Different senses are combined in `multimodal` areas. These are areas such as the `parietal cortex` and the `prefrontal cortex`.
+
+
 # Methods of Stimulating the Brain
 * `Transcranial Magnetic Brain Stimulation (TMS)`: Stimulating neurons using magnetic fields with a metal coil on the scalp.
 
